@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(158, 158, 158);
+    height: 300px;
+    width: 300px;
+    border: 10px solid darkslategray;
+    margin: auto;
+    margin-top: 10px
+}
+
+a{
+    border: 2px dotted red;
+    padding: 10px;
+}
